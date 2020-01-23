@@ -26,6 +26,12 @@ namespace constructors
            // this.Id = id;
             this.Name = name;
         }
+          var customer3 = new Customer
+            {
+                Id = 3,
+                Name = "pat"
+            };
+            
 
     }
 }
