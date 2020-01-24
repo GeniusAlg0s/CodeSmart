@@ -1,0 +1,11 @@
+C:\Users\plwg1\source\repos\abstract\abstract\obj\Debug\netcoreapp3.1\abstract.csprojAssemblyReference.cache
+C:\Users\plwg1\source\repos\abstract\abstract\obj\Debug\netcoreapp3.1\abstract.AssemblyInfoInputs.cache
+C:\Users\plwg1\source\repos\abstract\abstract\obj\Debug\netcoreapp3.1\abstract.AssemblyInfo.cs
+C:\Users\plwg1\source\repos\abstract\abstract\bin\Debug\netcoreapp3.1\abstract.exe
+C:\Users\plwg1\source\repos\abstract\abstract\bin\Debug\netcoreapp3.1\abstract.deps.json
+C:\Users\plwg1\source\repos\abstract\abstract\bin\Debug\netcoreapp3.1\abstract.runtimeconfig.json
+C:\Users\plwg1\source\repos\abstract\abstract\bin\Debug\netcoreapp3.1\abstract.runtimeconfig.dev.json
+C:\Users\plwg1\source\repos\abstract\abstract\bin\Debug\netcoreapp3.1\abstract.dll
+C:\Users\plwg1\source\repos\abstract\abstract\bin\Debug\netcoreapp3.1\abstract.pdb
+C:\Users\plwg1\source\repos\abstract\abstract\obj\Debug\netcoreapp3.1\abstract.dll
+C:\Users\plwg1\source\repos\abstract\abstract\obj\Debug\netcoreapp3.1\abstract.pdb
