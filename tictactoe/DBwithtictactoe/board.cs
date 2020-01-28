@@ -120,17 +120,16 @@ namespace dbtac
         {
             string connetionString = @"Data Source=LAPTOP-6C1MUBKA\SQLEXPRESS;Initial Catalog=gamedb;Integrated Security=True;";
             SqlConnection cnn = new SqlConnection(connetionString);
-            // string query = "INSERT gamerecord (gamename, playername, move, placed) VALUES (@gamename, @playername, @move, @placed)";
+          
             string query = "INSERT gamerecord (gamename, playername, move, placed) VALUES (@gamename, @playername, @move, @placed)";
             SqlCommand cmd = new SqlCommand(query, cnn);
-            // string query2 = "SELECT COUNT(gameid) FROM gameplay ";
+            
             string query2 = "INSERT gamerecord (gamename, playername, move, placed) VALUES (@gamename, @playername, @move, @placed)";
            
             SqlCommand cmd2 = new SqlCommand(query2, cnn);
             
             cnn.Open();
-           //var gamecount = cmd2.ExecuteNonQuery();
-           // gamecount += 1;
+          
 
             bool gameOverW = false;
             bool gameOverD = false;
@@ -138,7 +137,7 @@ namespace dbtac
             string playertwo;
             string ggamename;
             int player = 1;
-           // int gamenumber;
+          
             Console.WriteLine("welcome to tic tac toe \n player (X) one goes first\n player (O) two follows");
             Console.WriteLine();
             Console.WriteLine("RULES: pic a number 0 - 8. Not follwoing rules leads to automatic loss and game ending");
@@ -206,7 +205,7 @@ namespace dbtac
 
             while (gameOverW == false && gameOverD == false);
 
-            Console.Clear();// clearing the console  
+            Console.Clear(); 
 
             board.board();
 
